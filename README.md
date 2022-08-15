@@ -2,13 +2,14 @@
 This tools uses google images, streamlit, pytrends to look for trending skin conditions in diverse populations of different races in USA
 
 
+# Install the following things for the application development
+1. pip install streamlit            
+2. pip install git+https://github.com/Joeclinton1/google-images-download.git
+3. pip install pytrends
 
-Installations:
-1.pip install git+https://github.com/Joeclinton1/google-images-download.git
-2.pip install streamlit
-
-
-
+#How to run the software
+1. Go to the directory consisting the skinConditions.py file
+2. Run the command "streamlit run skinConditions.py"
 
 References
 
